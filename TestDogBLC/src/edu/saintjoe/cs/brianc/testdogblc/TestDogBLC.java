@@ -2,9 +2,9 @@ package edu.saintjoe.cs.brianc.testdogblc;
 
 public class TestDogBLC {
 
-	    private String name;//variable
+	    public String name;//variable
 	    
-	    private int weight;//variable
+	    public int weight;//variable
 	    	    
 	    public void setName(String newName) {
 	    	name = newName;//method to set a new name
